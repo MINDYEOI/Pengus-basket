@@ -1,11 +1,12 @@
-<center> 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-<center> <strong>PENGU'S BASKET is now under construction... </strong>
 
-  <center> 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+<p align="center">
+ 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧 <br>
+<strong>🚧 PENGU'S BASKET is now under construction... 🚧</strong><br>
+  🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧  <br>
+</p>
 
-  </center>
 
-## Just think how nice it would be upgraded...
+## Just think,, how nice it would be upgraded...
 
 ### 🛁 Running Process
 
