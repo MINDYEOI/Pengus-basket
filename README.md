@@ -11,6 +11,7 @@
 ### 🛁 Running Process
 
 *  cmd나 터미널에서 실행되도록! (현재는 jupyter notebook에서 run 해야함..)
+*  물고기가 내려오는 시간이 랜덤하도록! (현재는 하나 먹으면 하나 내려오고...)
 
 ### 🐧 Design
 
