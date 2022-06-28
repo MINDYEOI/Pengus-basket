@@ -1,9 +1,9 @@
-<center> 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧<br>
+<p align="center"> 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧<br>
 <strong>PENGU'S BASKET is now under construction... </strong><br>
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
-  </center>
+  </p>
 
 ## How to run
 
