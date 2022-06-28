@@ -1,7 +1,7 @@
 <center> 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧<br>
-<center> <strong>PENGU'S BASKET is now under construction... </strong>
+<strong>PENGU'S BASKET is now under construction... </strong><br>
 
-  <center> 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧 <br>
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
   </center>
 
