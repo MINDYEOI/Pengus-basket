@@ -1,3 +1,10 @@
+<center> 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧<br>
+<center> <strong>PENGU'S BASKET is now under construction... </strong>
+
+  <center> 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧 <br>
+
+  </center>
+
 ## How to run
 
 1. Download this repo using the command as below.
@@ -12,15 +19,6 @@ git clone https://github.com/MINDYEOI/Pengus-basket.git
 cd Pengus-basket
 python main.py
 ```
-
-## But....
-
-<center> 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧<br>
-<center> <strong>PENGU'S BASKET is now under construction... </strong>
-
-  <center> 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧 <br>
-
-  </center>
 
 ## Just think how nice it would be upgraded...
 
