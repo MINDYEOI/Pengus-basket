@@ -3,7 +3,7 @@ import random
 import pygame
 
 FPS = 30
-BACKGROUND = pygame.image.load('background.png')
+BACKGROUND = pygame.image.load('./assets/background.png')
 WINDOW_WIDTH = BACKGROUND.get_rect().size[0]
 WINDOW_HEIGHT = BACKGROUND.get_rect().size[1]
 PENGUIN_ACCELERATION = .2
@@ -52,8 +52,8 @@ def init_game():
 
     global SPRITES, PENGUIN
     global BACKGROUND_IMAGE, PENGUIN_IMAGE, PENGUIN_RECT
-    BACKGROUND_IMAGE = pygame.image.load('background.png')
-    PENGUIN = Entity(pygame.image.load('penguin.png'), DISPLAY_SURF.get_rect(
+    BACKGROUND_IMAGE = pygame.image.load('./assets/background.png')
+    PENGUIN = Entity(pygame.image.load('./assets/penguin.png'), DISPLAY_SURF.get_rect(
     ), WINDOW_WIDTH * 0.5, WINDOW_HEIGHT * 0.8)
     # https://stackoverflow.com/questions/13851051/how-to-use-sprite-groups-in-pygame
     SPRITES = pygame.sprite.Group()
@@ -61,26 +61,26 @@ def init_game():
 
     global FISHES, SEAGULLS, GOOD, BAD
     FISHES = []
-    FISHES.append(Entity(pygame.image.load('fish1.png'),
+    FISHES.append(Entity(pygame.image.load('./assets/fish1.png'),
                   DISPLAY_SURF.get_rect(), WINDOW_WIDTH * 0.5, 0))
-    FISHES.append(Entity(pygame.image.load('fish2.png'),
+    FISHES.append(Entity(pygame.image.load('./assets/fish2.png'),
                   DISPLAY_SURF.get_rect(), WINDOW_WIDTH * 0.5, 0))
-    FISHES.append(Entity(pygame.image.load('fish3.png'),
+    FISHES.append(Entity(pygame.image.load('./assets/fish3.png'),
                   DISPLAY_SURF.get_rect(), WINDOW_WIDTH * 0.5, 0))
-    FISHES.append(Entity(pygame.image.load('fish4.png'),
+    FISHES.append(Entity(pygame.image.load('./assets/fish4.png'),
                   DISPLAY_SURF.get_rect(), WINDOW_WIDTH * 0.5, 0))
-    FISHES.append(Entity(pygame.image.load('fish5.png'),
+    FISHES.append(Entity(pygame.image.load('./assets/fish5.png'),
                   DISPLAY_SURF.get_rect(), WINDOW_WIDTH * 0.5, 0))
 
     SEAGULLS = []
-    SEAGULLS.append(Entity(pygame.image.load('gull1.png'),
+    SEAGULLS.append(Entity(pygame.image.load('./assets/gull1.png'),
                     DISPLAY_SURF.get_rect(), WINDOW_WIDTH * 0.5, 0))
-    SEAGULLS.append(Entity(pygame.image.load('gull2.png'),
+    SEAGULLS.append(Entity(pygame.image.load('./assets/gull2.png'),
                     DISPLAY_SURF.get_rect(), WINDOW_WIDTH * 0.5, 0))
 
-    GOOD = Entity(pygame.image.load('good.png'), DISPLAY_SURF.get_rect(
+    GOOD = Entity(pygame.image.load('./assets/good.png'), DISPLAY_SURF.get_rect(
     ), WINDOW_WIDTH * 0.5, WINDOW_HEIGHT * 0.2)
-    BAD = Entity(pygame.image.load('bad.png'), DISPLAY_SURF.get_rect(),
+    BAD = Entity(pygame.image.load('./assets/bad.png'), DISPLAY_SURF.get_rect(),
                  WINDOW_WIDTH * 0.5, WINDOW_HEIGHT * 0.2)
 
     # -- GOOD, BAD 이미지 투명하게 만들기 위해서
